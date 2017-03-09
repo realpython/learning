@@ -20,17 +20,15 @@ Languages and frameworks are only part of the process - a small part. You also n
 
 Given the following problem, how would you break it down into manageable pieces?
 
---
+  Design a web app that allows employees to submit feedback toward each other's performance review.
 
-Design a web app that allows employees to submit feedback toward each other's performance review.
+  Admin View:
+  - CRUD employees and reviews
+  - Assign employees to participate in another employee's performance review
 
-Admin View:
-- CRUD employees and reviews
-- Assign employees to participate in another employee's performance review
-
-Employee view:
-- List of performance reviews requiring feedback
-- Feedback submission
+  Employee view:
+  - List of performance reviews requiring feedback
+  - Feedback submission
 
 ## Resources
 
