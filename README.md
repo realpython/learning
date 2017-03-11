@@ -20,6 +20,7 @@ Languages and frameworks are only part of the process - a small part. You also n
 
 - [Learn Python the Methodical Way](https://realpython.com/blog/python/learn-python-the-methodical-way/)
 - [What have you tried?](http://whathaveyoutried.com)
+- [Habits for effective Python learning](https://www.crowdcast.io/e/learning/)
 
 ## Discount Code
 
