@@ -46,3 +46,9 @@ Languages and frameworks are only part of the process - a small part. You also n
 1. **For many of us pre-web dev is hard to gather all the necessary technologies involved. Learning Python is one thing (an easy one) but get it to work in real world web apps is another. It would be great to learn a simple fast track web dev building blocks, no matter what framework we finally chose to work with. In any case I will be very attentive and grateful.**
 
   You do have to start with a language/framework, but as you are learning it's important to abstract out what you're doing so that it's applicable to other languages and frameworks - this is how the second Real Python course was written.
+
+1. **Any good Open Source projects for Python newbies?**
+
+    Search on GitHub for specific issues:
+      - https://github.com/issues?q=is%3Aopen+label%3Aup-for-grabs
+      - https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3Ahacktoberfest+
