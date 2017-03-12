@@ -2,19 +2,23 @@
 
 Languages and frameworks are only part of the process - a small part. You also need to learn how to think like a developer.
 
-1. Eliminate distractions - close browser tabs, silence your phone, use the Pomodoro method
-1. Define the end goals - "What am I supposed to learn?"
-1. Focus on the process - The process is much more important than the end product:
-  - How do you approach a problem?
-  - What do you do when you get stuck?
-  - Can you brute force your way through?
-1. Experiment - try new things, learn from failing, have fun
-1. Reflect - ask the following questions at the end of each study session:
-  - What were my objectives?
-  - How far did I get?
-  - How much is left?
-  - How was the process?
-  - Am I on the right track?
+1. Set the stage
+  - Eliminate distractions - close browser tabs, silence your phone, use the Pomodoro method
+  - Clarify your _what_ and _why_: What is it that you're trying to achieve? Why is that important?
+  - Focus on the process - The process is much more important than the end product:
+    - How do you approach a problem?
+    - What do you do when you get stuck?
+    - Can you brute force your way through?
+1. Play
+  - Take risks, experiment. The most fruitful place to be is at the edge of your ability, or your 'Zone of proximal development'
+  - Have fun! Recognize if you're in 'fight or flight' mode, and take steps to get yourself back in a positive state of mind.
+1. Reflect - 
+  - Ask the following questions at the end of each study session:
+    - What were my objectives?
+    - How far did I get?
+    - How much is left?
+    - How was the process?
+    - Am I on the right track?
 
 ## Resources
 
