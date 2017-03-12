@@ -62,9 +62,9 @@ Languages and frameworks are only part of the process - a small part. You also n
 
 1. **Any good Open Source projects for Python newbies?**
 
-    Search on GitHub for specific issues:
+    - Search on GitHub for specific issues:
       - https://github.com/issues?q=is%3Aopen+label%3Aup-for-grabs
       - https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3Ahacktoberfest+
       - https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3Ahacktoberfest+language%3Apython
-      - http://pybee.org/contributing/
-      - https://github.com/MunGell/awesome-for-beginners#python
+    - http://pybee.org/contributing/
+    - https://github.com/MunGell/awesome-for-beginners#python
