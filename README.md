@@ -25,6 +25,7 @@ Video: [Habits for effective Python learning](https://www.crowdcast.io/e/learnin
 
 - [Learn Python the Methodical Way](https://realpython.com/blog/python/learn-python-the-methodical-way/)
 - [What have you tried?](http://whathaveyoutried.com)
+- [Take the time to learn how to learn](https://www.reddit.com/r/learnpython/comments/9aez4b/take_the_time_to_learn_how_to_learn/)
 
 ## Discount Code
 
