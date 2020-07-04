@@ -27,10 +27,6 @@ Video: [Habits for effective Python learning](https://www.crowdcast.io/e/learnin
 - [What have you tried?](http://whathaveyoutried.com)
 - [Take the time to learn how to learn](https://www.reddit.com/r/learnpython/comments/9aez4b/take_the_time_to_learn_how_to_learn/)
 
-## Discount Code
-
-- 50% off [Real Python](https://realpython.com/): PYCHATWEEK
-
 ## Questions
 
 1. **The docs are huge! How do you effectively read the documentation?**
